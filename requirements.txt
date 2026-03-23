@@ -1,0 +1,4 @@
+# Third-party dependency used by:
+# - 50. LLD Problems/26.DesignAPasswordVaultSystem.py
+# All other current examples use the Python standard library.
+cryptography==43.0.0
